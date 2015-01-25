@@ -2,6 +2,8 @@
 
 **This is a most simple and flexible boilerplate to start with,**
 
+![Pinot-boilerplate-logo](apple-touch-icon-precomposed.png)
+
 ---
 * Source: []()
 * Homepage: []()
