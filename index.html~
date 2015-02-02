@@ -19,7 +19,8 @@
 		<!-- Custom CSS -->
 		<link rel="stylesheet" type="text/css" href="assets/css/custom.css">
 
-		
+		<!-- Icomoon fonts -->
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
 		<!-- Normalize css -->
 		<link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
