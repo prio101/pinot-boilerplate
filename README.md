@@ -6,7 +6,7 @@
 
 ---
 * Source: [Pinot-boilerplate SRC](https://github.com/prio101/pinot-boilerplate)
-* Homepage: []()
+* Homepage: [Pinot Boilerplate](http://prio101.github.io/pinot-boilerplate/)
 
 
 ### Features:
